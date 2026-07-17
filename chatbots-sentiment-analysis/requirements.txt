@@ -1,0 +1,37 @@
+# --- Scraping ---
+google-play-scraper
+requests
+langdetect
+
+# --- Cleaning & NLP preprocessing ---
+clean-text
+contractions
+nltk
+
+# --- Data & numerics ---
+pandas
+numpy
+
+# --- EDA & visualisation ---
+matplotlib
+seaborn
+wordcloud
+
+# --- Sentiment & emotion analysis ---
+vaderSentiment
+transformers
+torch
+huggingface-hub
+
+# --- Statistics ---
+scipy
+scikit-learn
+scikit-posthocs
+statsmodels
+
+# --- Topic modelling ---
+bertopic
+
+# --- Utilities ---
+tqdm
+ipython

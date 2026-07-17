@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Environment variables & secrets ---
+.env
+
+# --- Data (raw & processed — large, platform ToS considerations) ---
+data/
+
+# --- Model & cache files (Hugging Face / PyTorch downloads) ---
+.cache/
+*.pt
+*.bin
+*.safetensors
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Scratch / throwaway plot exports ---
+scratch/
