@@ -5,6 +5,7 @@ langdetect
 
 # --- Cleaning & NLP preprocessing ---
 clean-text
+unidecode
 contractions
 nltk
 
